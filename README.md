@@ -57,12 +57,4 @@ Ubuntu 18.04 下（Gnome 桌面）：
 
 安装 Gnome Shell 插件：[TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/)
 
-## 三、参与贡献
-
-* 1. Fork 本项目
-* 2. 新建 Feat_xxx 分支
-* 3. 提交代码
-* 4. 新建 Pull Request
-* 5. 捐赠：
-
 欢迎大家积极反馈！
